@@ -1,2 +1,2 @@
 # DiscordTyperJS
-💕Discord Token Grabber💕For Tamper-Monkey
+README.md5 somming soon!
